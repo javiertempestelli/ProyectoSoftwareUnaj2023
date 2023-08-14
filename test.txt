@@ -1,3 +1,6 @@
 Este es mi primer archivo de texto.
 
-Y lo voy a commitear en git
+Y lo voy a commitear en git.
+
+
+Ya lo commmitié!!
